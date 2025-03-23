@@ -1,4 +1,4 @@
-visit my website, [ijp.codes](ijp.codes)!
+visit my website, [ijp.codes](https://ijp.codes)!
 
 <!---
 eye-jay-pee/eye-jay-pee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
